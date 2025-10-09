@@ -1,0 +1,50 @@
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore datasets and model weights
+data/
+*.csv
+*.h5
+*.pkl
+*.joblib
+
+# Ignore notebook metadata backups
+*.bak
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore Python cache
+__pycache__/
+*.py[cod]
+
+# Ignore virtual environments
+.venv/
+venv/
+env/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore datasets and model weights
+data/
+*.csv
+*.h5
+*.pkl
+*.joblib
+
+# Ignore notebook metadata backups
+*.bak
